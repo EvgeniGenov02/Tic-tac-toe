@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+    border-radius: 1px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    float: right;
+    width: 100px;
+    margin-right: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    height:62px;
+    overflow:auto;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+
+#winBox {
+    text-align: center;
+}
